@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\bin\Debug\netcoreapp3.1\05.FormattingStrings.exe
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\bin\Debug\netcoreapp3.1\05.FormattingStrings.deps.json
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\bin\Debug\netcoreapp3.1\05.FormattingStrings.runtimeconfig.json
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\bin\Debug\netcoreapp3.1\05.FormattingStrings.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\bin\Debug\netcoreapp3.1\05.FormattingStrings.dll
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\bin\Debug\netcoreapp3.1\05.FormattingStrings.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\obj\Debug\netcoreapp3.1\05.FormattingStrings.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\obj\Debug\netcoreapp3.1\05.FormattingStrings.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\obj\Debug\netcoreapp3.1\05.FormattingStrings.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\obj\Debug\netcoreapp3.1\05.FormattingStrings.dll
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\obj\Debug\netcoreapp3.1\05.FormattingStrings.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\obj\Debug\netcoreapp3.1\05.FormattingStrings.genruntimeconfig.cache
+C:\Users\Bla\source\repos\01.stringTutorial\05.FormattingStrings\obj\Debug\netcoreapp3.1\05.FormattingStrings.csprojAssemblyReference.cache
